@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning Devops
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about Devops Technology & Tools
-<br/>
-<br/>
 
 ### Connect with me:
 
@@ -19,9 +17,9 @@
 <!-- <a href="https://fb.com/iamvikashkum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamvikashkum" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/bhautik_17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikashkr30" height="30" width="40" /></a>
 </p>
-<br />
 
 ### Skills/Interests
+<hr />
 
 **Languages**
 
@@ -48,7 +46,7 @@
     alt="Github"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/github-original.svg" />
+    src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png" />
 </a>
 <a href="https://www.heroku.com/">
   <img
